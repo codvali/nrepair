@@ -1,0 +1,31 @@
+# ╔══════════════════════════════════════════════════════════════╗
+# ║                            NREPAIR                            ║
+# ║                  Copyright © 2026 Valentin Condei            ║
+# ║                         All Rights Reserved                  ║
+# ╚══════════════════════════════════════════════════════════════╝
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Reports (user-generated data)
+nrepair_reports/
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
