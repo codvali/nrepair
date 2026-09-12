@@ -6,6 +6,9 @@
 
 # nrepair — „Ce este în neregulă cu PC-ul meu?"
 
+> **Proprietar / Author:** Condei Valentin — VOENSYS.COM / VAOS
+> Copyright © 2026 — All Rights Reserved
+
 **RO** | [EN](#en)
 
 Un diagnostic PC pentru **utilizatorul normal**. Nu se termină cu `ERROR`,
