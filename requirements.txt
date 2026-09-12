@@ -1,0 +1,13 @@
+# ╔══════════════════════════════════════════════════════════════╗
+# ║                            NREPAIR                            ║
+# ║                  Copyright © 2026 Valentin Condei            ║
+# ║                         All Rights Reserved                  ║
+# ╚══════════════════════════════════════════════════════════════╝
+#
+# nrepair uses only the Python standard library (tkinter, subprocess,
+# json, dataclasses, ...). No third-party runtime dependencies.
+#
+# For building the standalone .exe:
+#   pip install pyinstaller
+#   pyinstaller nrepair.spec
+pyinstaller>=6.3

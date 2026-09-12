@@ -1,0 +1,45 @@
+╔══════════════════════════════════════════════════════════════╗
+║                            NREPAIR                            ║
+║                                                              ║
+║                  Copyright © 2026 Valentin Condei            ║
+║                         All Rights Reserved                  ║
+║                                                              ║
+║ nrepair is proprietary software created and owned by          ║
+║ Valentin Condei.                                             ║
+║                                                              ║
+║ No permission is granted to copy, modify, distribute,        ║
+║ sublicense, sell, or incorporate this software into another  ║
+║ product without prior written permission from the copyright  ║
+║ holder.                                                      ║
+║                                                              ║
+║ Distribution through VOENSYS / VAOS does not transfer        ║
+║ ownership or intellectual property rights.                   ║
+╚══════════════════════════════════════════════════════════════╝
+
+Copyright (c) 2026 Condei Valentin / VOENSYS.COM / VAOS
+Email: valentincondei@yahoo.com
+
+PROPRIETARY SOFTWARE — ALL RIGHTS RESERVED
+
+This software and its source code are the property of
+Condei Valentin (VOENSYS.COM / VAOS).
+
+Permission is granted to USE the compiled executable for
+personal and commercial purposes free of charge.
+
+You may NOT:
+- sell, sublicense, or redistribute this software
+- remove or alter copyright notices
+- claim this work as your own
+
+nrepair uses only the Python standard library (no third-party
+runtime dependencies).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM OR DAMAGES.
+
+Website:
+  EN: https://voensys.com/vaos/en/utilities/nrepair
+  RO: https://voensys.com/vaos/ro/utilitati/nrepair
+
+Donate: https://www.paypal.com/paypalme/ValentinCondei
